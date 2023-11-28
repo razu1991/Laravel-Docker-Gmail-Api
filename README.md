@@ -5,9 +5,9 @@
 - [Docker](https://www.docker.com/products/docker-desktop/).
 
 ## Info 
-    - Host set localhost|127.0.0.1 & Port 8000 (localhost:8000)
-    - After registration welcome email manage via queue and auto queue command work
-    - After successfull registration welcome mail send to user mail via GMAIL API
+ - Host set localhost|127.0.0.1 & Port 8000 (localhost:8000)
+ - After registration welcome email manage via queue and auto queue command work
+ - After successfull registration welcome mail send to user mail via GMAIL API
     
 ## Installation
  - Download or Git clone this repo
